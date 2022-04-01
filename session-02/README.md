@@ -1,4 +1,4 @@
-# Session Three - CSS Grid, Flex & Media Queries
+# Session Two - CSS Grid, Flex & Media Queries
 In this session you'll learn CSS layouts using modern techniques such as `grid` and `flex`. You'll also learn about responsive design and how this can be achieved via media queries.
 
 
